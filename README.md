@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **baiYanXii/baiyanxii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 ![baiYanXii's github stats](https://github-readme-stats.vercel.app/api?username=baiYanXii&show_icons=true&locale=cn&theme=blueberry)
 
-此图片使用https://github.com/anuraghazra/github-readme-stats/ 项目
-
-<br />
-<br />
+此图片使用 https://github.com/anuraghazra/github-readme-stats/ 项目
