@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baiYanXii&theme=tokyonight&locale=zh&date_format=%5BY.%5Dn.j)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baiYanXii&layout=compact)
